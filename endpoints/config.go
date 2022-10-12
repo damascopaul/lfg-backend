@@ -1,0 +1,3 @@
+package endpoints
+
+var TOKEN_SECRET = "1d62gCp6XcESjQh0oUwkHmoScQ14i4wmpyLgabxYwXb2EOllX4EJ1Ajs1pF5"
